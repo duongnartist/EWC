@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="Chức năng chính">
+        <menu>
+            <item android:id="@+id/nav_electric" android:icon="@android:drawable/ic_menu_share"
+                android:title="Nhận dạng số điện" />
+            <item android:id="@+id/nav_water" android:icon="@android:drawable/ic_menu_send"
+                android:title="Nhận dạng số nước" />
+        </menu>
+    </item>
+
+</menu>
